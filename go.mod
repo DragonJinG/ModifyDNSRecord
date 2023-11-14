@@ -1,4 +1,4 @@
-module goclient
+module modifyDNSRecord
 
 go 1.13
 
