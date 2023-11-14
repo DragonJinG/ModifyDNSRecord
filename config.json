@@ -1,0 +1,10 @@
+{
+    "SecretId": "abc",
+    "SecretKey": "ABC",
+    "Domain": "baidu.com",
+    "SubDomain": "www",
+    "RecordType": "A",
+    "RecordLine": "默认",
+    "Value":"192.168.1.168",
+    "RecordId": 1999
+  }
